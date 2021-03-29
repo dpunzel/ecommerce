@@ -1,0 +1,7 @@
+{
+  //"python.pythonPath": "C:\\Users\\DAVID\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "python.pythonPath": "C:\\Users\\DAVID\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+  "[python]": {
+    "gitlens.codeLens.symbolScopes": ["!Module"]
+  }
+}
